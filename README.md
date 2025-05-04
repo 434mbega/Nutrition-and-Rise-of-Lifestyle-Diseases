@@ -1,10 +1,10 @@
-# The-Nutrition-Coach
+# The-NutriLife
 
 ## Inspiration
-Growing up you might have heard the term ‘Health is Wealth’, but its essential meaning is still not clear to most people. Our food habits does not have merely one but numerous benefits. It helps us in various spheres of life. So to help you keep track of it we present you The Nutrition Coach , a website to raise people's awareness about diets and it's types. Here person can convert the language of nutrition label and receive access to exercise bot.
+Growing up you might have heard the term ‘Health is Wealth’, but its essential meaning is still not clear to most people. Our food habits does not have merely one but numerous benefits. It helps us in various spheres of life. So to help you keep track of it we present you The NutriLife , a website to raise people's awareness about diets and it's types. Here person can convert the language of nutrition label and receive access to exercise bot.
 
 ## What it does
-The Nutrition Coach helps in three area's :
+The NutriLife helps in three area's :
 <br>
 1. **Diet** : It provides diet corresponding to illness and chart to find their category.It has explained diets according to provided illness 
 <br>
@@ -22,7 +22,7 @@ It has built with Tesseract.js to build an OCR web application.
 ## Demo
 
 #### Home Page
-<img src="https://github.com/blackcrabb/The-Nutrition-Coach/blob/screenshots/Screenshots/home.gif" width=300 height=150>
+<img src="https://github.com/blackcrabb/The-NutriLife-/blob/screenshots/Screenshots/home.gif" width=300 height=150>
 
 #### Dietary
 <img src="https://github.com/blackcrabb/The-Nutrition-Coach/blob/screenshots/Screenshots/dietary.gif" width=300 height=150>
